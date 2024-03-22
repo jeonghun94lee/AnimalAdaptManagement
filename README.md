@@ -1,4 +1,4 @@
-<h2>- 👋 Hi, I’m @junghoon94lee
+- 👋 Hi, I’m @junghoon94lee
 - 👀 I’m interested in Soccer/ Exercise
 - 🌱 I’m currently learning Java/Backend
 - 💞️ I’m looking to collaborate on all companies 
@@ -10,4 +10,4 @@ junghoon94lee/junghoon94lee is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 Thank you read me ^_^
-</h2>
+
